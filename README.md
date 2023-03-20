@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an <a href="https://www.linkedin.com/in/andrew-willis-06965625b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Andrew, an <a href="https://www.linkedin.com/in/andrew-willis-06965625b/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/andrew-willis-TX/osticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring and Deploying Active Directory within Azure](https://github.com/andrew-willis-TX/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrew-willis-TX/network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols(Lab 2)](https://github.com/andrew-willis-TX/network-protocols)
 
 <h2>Connect with me:</h2>
 
